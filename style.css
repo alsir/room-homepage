@@ -232,10 +232,10 @@ li#img:hover{
 	position: relative;
 }
 button.carousel-control-prev {
-    left: 63%;
+    left: 64%;
     bottom: 20px;
     bottom: 0;
-    top: 100vw;
+    top: 111vw;
     height: 68px;
     width: 68px;
     background-color: black;
@@ -244,7 +244,7 @@ button.carousel-control-prev {
 button.carousel-control-next {
     right: 0;
     bottom: 0;
-    top: 100vw;
+    top: 111vw;
     height: 68px;
     width: 68px;
     background-color: black;
